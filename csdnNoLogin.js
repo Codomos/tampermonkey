@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CSDN no login
-// @version      0.7
+// @version      0.8
 //author       albert
 //
 
@@ -10,11 +10,15 @@
 // @icon         https://www.csdn.net/favicon.ico
 
 // @match        *://*.csdn.net/*
-
+    
 // @grant        none
 // ==/UserScript==
 
 (function() {
     'use strict';
-     $("pre,code").css("user-select","auto");
+
+    $("pre,code").css("user-select","auto");
+
+
+
 })();
