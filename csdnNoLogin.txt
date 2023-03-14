@@ -3,7 +3,7 @@
 // @version      0.7
 // @description  try to take over the world!
 // @match        *://*.csdn.net/*
-// @require      tampermonkey://vendor/jquery.js
+
 // @grant        none
 // ==/UserScript==
 

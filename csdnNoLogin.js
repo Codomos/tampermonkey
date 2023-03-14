@@ -10,7 +10,7 @@
 // @icon         https://www.csdn.net/favicon.ico
 
 // @match        *://*.csdn.net/*
-// @require      tampermonkey://vendor/jquery.js
+
 // @grant        none
 // ==/UserScript==
 
